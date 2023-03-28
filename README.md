@@ -13,3 +13,5 @@ Reservas: La tabla de reservas tendría como atributos los datos del usuario que
 Actividades: : Esta tabla contendría información detallada sobre las diferentes actividades ofrecidas en el gimnasio, como el nombre de la actividad, una descripción breve, el tipo de actividad (por ejemplo, entrenamiento en grupo, entrenamiento personal, yoga, pilates, etc.), el horario de las sesiones, la duración de cada sesión, y cualquier otro detalle relevante.
 
 Pagos: Esta tabla contendría información sobre los pagos realizados por los usuarios, como la fecha del pago, el monto abonado, el número de factura, y cualquier otro detalle relevante.
+
+Instalaciones: Esta tabla contiene la lista de instalaciones contenidas en el gimnasio, con un codigo, un nombre y un horario de apertura, asi como un numero de plazas totales y reservadas
